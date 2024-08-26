@@ -10,7 +10,7 @@ export default function Home() {
           Bookaplace
         </Link>
         <Link href="/order" className="">
-          Order
+          Orders
         </Link>
         <Link href="/contact">Contact</Link>
       </div>
